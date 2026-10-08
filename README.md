@@ -28,15 +28,28 @@ Community-made ports of classic games made by real humans.
 
 ## Nintendo 64
 
-| Port     | Game     | Platforms           | Notes |
-| -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| Port                 | Game                   | Platforms           | Notes                                                                             |
+| -------------------- | ---------------------- | ------------------- | --------------------------------------------------------------------------------- |
+| Banjo Recompiled     | Banjo-Kazooie          | Windows, Mac, Linux |                                                                                   |
+| Lighthouse           | Banjo-Kazooie          | Windows, Mac, Linux |                                                                                   |
+| DK64 Rekongpiled     | Donkey Kong 64         | Windows, Mac, Linux |                                                                                   |
+| Spaghetti Kart       | Mario Kart 64          | Windows, Mac, Linux |                                                                                   |
+| Paper Boat           | Paper Mario            | Windows, Mac, Linux |                                                                                   |
+| Perfect Dark         | Perfect Dark           | Windows, Mac, Linux |                                                                                   |
+| Starship             | Star Fox 64            | Windows, Mac, Linux |                                                                                   |
+| Super Mario 64 EX    | Super Mario 64         | Windows, Mac, Linux | Requires extra dependencies to start playing.                                     |
+| Super Mario 64 Plus  | Super Mario 64         | Windows             | Requires extra dependencies to start playing. Playable on Linux through ProtonGE. |
+| sm64coopdx           | Super Mario 64         | Windows, Mac, Linux |                                                                                   |
+| GhostShip            | Super Mario 64         | Windows, Mac, Linux |                                                                                   |
+| Ship of Harkinian    | Zelda: Ocarina of Time | Windows, Mac, Linux |                                                                                   |
+| 2Ship                | Zelda: Majora's Mask   | Windows, Mac, Linux |                                                                                   |
+| Zelda 64: Recompiled | Zelda: Majora's Mask   | Windows, Mac, Linux |                                                                                   |
 
 ## GameCube
 
-| Port     | Game     | Platforms           | Notes |
-| -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| Port      | Game                     | Platforms                         | Notes |
+| --------- | ------------------------ | --------------------------------- | ----- |
+| Dusklight | Zelda: Twilight Princess | Windows, Mac, Linux, Android, iOS |       |
 
 ## Game Boy and Game Boy Color
 
