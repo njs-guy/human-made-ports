@@ -19,6 +19,7 @@ Community-made ports of classic games made by real humans.
 | Game              | Port                                                                                             | Platforms      | Notes |
 | ----------------- | ------------------------------------------------------------------------------------------------ | -------------- | ----- |
 | Super Mario Bros. | [Super Mario Bros. Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public) | Windows, Linux |       |
+| Zelda II          | [ZIIAOL](https://hoverbat.itch.io/ziiaol)                                                        | Windows        |       |
 
 ## SNES / Super Famicom
 
@@ -47,9 +48,10 @@ Community-made ports of classic games made by real humans.
 
 ## GameCube
 
-| Game                     | Port                                 | Platforms                         | Notes |
-| ------------------------ | ------------------------------------ | --------------------------------- | ----- |
-| Zelda: Twilight Princess | [Dusklight](https://twilitrealm.dev) | Windows, Mac, Linux, Android, iOS |       |
+| Game                     | Port                                                                       | Platforms                         | Notes |
+| ------------------------ | -------------------------------------------------------------------------- | --------------------------------- | ----- |
+| Animal Crossing          | [Animal Crossing PC Port (CROSS)](https://github.com/flyngmt/ACGC-PC-Port) | Windows                           |       |
+| Zelda: Twilight Princess | [Dusklight](https://twilitrealm.dev)                                       | Windows, Mac, Linux, Android, iOS |       |
 
 ## Game Boy and Game Boy Color
 
@@ -77,10 +79,13 @@ Community-made ports of classic games made by real humans.
 
 ## DOS and PC
 
-| Game         | Port                                                              | Platforms           | Notes |
-| ------------ | ----------------------------------------------------------------- | ------------------- | ----- |
-| Doom, Doom 2 | [UZDoom](https://github.com/UZDoom/UZDoom)                        | Windows, Mac, Linux |       |
-| Doom, Doom 2 | [Crispy Doom](https://fabiangreffrath.github.io/crispy-homepage/) | Windows, Mac, Linux |       |
-| Quake        | [Ironwail](https://github.com/andrei-drexler/ironwail)            | Windows, Mac, Linux |       |
-| Quake        | [Quakespasm](https://sourceforge.net/projects/quakespasm/)        | Windows, Mac, Linux |       |
-| Quake        | [vkQuake (CROSS)](https://github.com/Novum/vkQuake)               | Windows, Mac, Linux |       |
+| Game                | Port                                                                | Platforms           | Notes                                                                                                      |
+| ------------------- | ------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Doom, Doom 2        | [UZDoom](https://github.com/UZDoom/UZDoom)                          | Windows, Mac, Linux |                                                                                                            |
+| Doom, Doom 2        | [Crispy Doom](https://fabiangreffrath.github.io/crispy-homepage/)   | Windows, Mac, Linux |                                                                                                            |
+| Morrowind           | [OpenMW](https://openmw.org/)                                       | Windows, Mac, Linux |                                                                                                            |
+| Quake               | [Ironwail](https://github.com/andrei-drexler/ironwail)              | Windows, Mac, Linux |                                                                                                            |
+| Quake               | [Quakespasm](https://sourceforge.net/projects/quakespasm/)          | Windows, Mac, Linux |                                                                                                            |
+| Quake               | [vkQuake (CROSS)](https://github.com/Novum/vkQuake)                 | Windows, Mac, Linux |                                                                                                            |
+| Quake III Arena     | [ioquake3](https://ioquake3.org/)                                   | Windows, Mac, Linux |                                                                                                            |
+| Space Cadet Pinball | [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Windows, Mac, Linux | Linux version on [Flathub](https://flathub.org/en/apps/com.github.k4zmu2a.spacecadetpinball) (unverified). |
