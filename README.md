@@ -16,76 +16,76 @@ Community-made ports of classic games made by real humans.
 
 ## NES / Famicom
 
-| Port                         | Game              | Platforms           | Notes |
-| ---------------------------- | ----------------- | ------------------- | ----- |
-| Super Mario Bros. Remastered | Super Mario Bros. | Windows, Mac, Linux |       |
+| Game              | Port                         | Platforms           | Notes |
+| ----------------- | ---------------------------- | ------------------- | ----- |
+| Super Mario Bros. | Super Mario Bros. Remastered | Windows, Mac, Linux |       |
 
 ## SNES / Super Famicom
 
-| Port     | Game     | Platforms           | Notes |
+| Game     | Port     | Platforms           | Notes |
 | -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| The game | The port | Windows, Mac, Linux |       |
 
 ## Nintendo 64
 
-| Port                 | Game                   | Platforms           | Notes                                                                             |
-| -------------------- | ---------------------- | ------------------- | --------------------------------------------------------------------------------- |
-| Banjo Recompiled     | Banjo-Kazooie          | Windows, Mac, Linux |                                                                                   |
-| Lighthouse           | Banjo-Kazooie          | Windows, Mac, Linux |                                                                                   |
-| DK64 Rekongpiled     | Donkey Kong 64         | Windows, Mac, Linux |                                                                                   |
-| Spaghetti Kart       | Mario Kart 64          | Windows, Mac, Linux |                                                                                   |
-| Paper Boat           | Paper Mario            | Windows, Mac, Linux |                                                                                   |
-| Perfect Dark         | Perfect Dark           | Windows, Mac, Linux |                                                                                   |
-| Starship             | Star Fox 64            | Windows, Mac, Linux |                                                                                   |
-| Super Mario 64 EX    | Super Mario 64         | Windows, Mac, Linux | Requires extra dependencies to start playing.                                     |
-| Super Mario 64 Plus  | Super Mario 64         | Windows             | Requires extra dependencies to start playing. Playable on Linux through ProtonGE. |
-| sm64coopdx           | Super Mario 64         | Windows, Mac, Linux |                                                                                   |
-| GhostShip            | Super Mario 64         | Windows, Mac, Linux |                                                                                   |
-| Ship of Harkinian    | Zelda: Ocarina of Time | Windows, Mac, Linux |                                                                                   |
-| 2Ship                | Zelda: Majora's Mask   | Windows, Mac, Linux |                                                                                   |
-| Zelda 64: Recompiled | Zelda: Majora's Mask   | Windows, Mac, Linux |                                                                                   |
+| Game                   | Port                 | Platforms           | Notes                                                                             |
+| ---------------------- | -------------------- | ------------------- | --------------------------------------------------------------------------------- |
+| Banjo-Kazooie          | Banjo Recompiled     | Windows, Mac, Linux |                                                                                   |
+| Banjo-Kazooie          | Lighthouse           | Windows, Mac, Linux |                                                                                   |
+| Donkey Kong 64         | DK64 Rekongpiled     | Windows, Mac, Linux |                                                                                   |
+| Mario Kart 64          | Spaghetti Kart       | Windows, Mac, Linux |                                                                                   |
+| Paper Mario            | Paper Boat           | Windows, Mac, Linux |                                                                                   |
+| Perfect Dark           | Perfect Dark         | Windows, Mac, Linux |                                                                                   |
+| Star Fox 64            | Starship             | Windows, Mac, Linux |                                                                                   |
+| Super Mario 64         | Super Mario 64 EX    | Windows, Mac, Linux | Requires extra dependencies to start playing.                                     |
+| Super Mario 64         | Super Mario 64 Plus  | Windows             | Requires extra dependencies to start playing. Playable on Linux through ProtonGE. |
+| Super Mario 64         | sm64coopdx           | Windows, Mac, Linux |                                                                                   |
+| Super Mario 64         | GhostShip            | Windows, Mac, Linux |                                                                                   |
+| Zelda: Ocarina of Time | Ship of Harkinian    | Windows, Mac, Linux |                                                                                   |
+| Zelda: Majora's Mask   | 2Ship                | Windows, Mac, Linux |                                                                                   |
+| Zelda: Majora's Mask   | Zelda 64: Recompiled | Windows, Mac, Linux |                                                                                   |
 
 ## GameCube
 
-| Port      | Game                     | Platforms                         | Notes |
-| --------- | ------------------------ | --------------------------------- | ----- |
-| Dusklight | Zelda: Twilight Princess | Windows, Mac, Linux, Android, iOS |       |
+| Game                     | Port      | Platforms                         | Notes |
+| ------------------------ | --------- | --------------------------------- | ----- |
+| Zelda: Twilight Princess | Dusklight | Windows, Mac, Linux, Android, iOS |       |
 
 ## Game Boy and Game Boy Color
 
-| Port     | Game     | Platforms           | Notes |
+| Game     | Port     | Platforms           | Notes |
 | -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| The game | The port | Windows, Mac, Linux |       |
 
 ## Game Boy Advance
 
-| Port     | Game     | Platforms           | Notes |
+| Game     | Port     | Platforms           | Notes |
 | -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| The game | The port | Windows, Mac, Linux |       |
 
 ## Sega Genesis / Mega Drive
 
-| Port           | Game               | Platforms                    | Notes |
-| -------------- | ------------------ | ---------------------------- | ----- |
-| Sonic 3 A.I.R. | Sonic 3 & Knuckles | Windows, Mac, Linux, Android |       |
+| Game               | Port           | Platforms                    | Notes |
+| ------------------ | -------------- | ---------------------------- | ----- |
+| Sonic 3 & Knuckles | Sonic 3 A.I.R. | Windows, Mac, Linux, Android |       |
 
 ## PlayStation 2
 
-| Port     | Game                          | Platforms           | Notes                                                                    |
-| -------- | ----------------------------- | ------------------- | ------------------------------------------------------------------------ |
-| OpenGOAL | Jak and Daxter, Jak II, Jak 3 | Windows, Mac, Linux | Jak II and 3 are still considered "beta" and may have some minor issues. |
+| Game                          | Port     | Platforms           | Notes                                                                    |
+| ----------------------------- | -------- | ------------------- | ------------------------------------------------------------------------ |
+| Jak and Daxter, Jak II, Jak 3 | OpenGOAL | Windows, Mac, Linux | Jak II and 3 are still considered "beta" and may have some minor issues. |
 
 ## Xbox 360
 
-| Port                 | Game            | Platforms           | Notes |
-| -------------------- | --------------- | ------------------- | ----- |
-| Unleashed Recompiled | Sonic Unleashed | Windows, Mac, Linux |       |
+| Game            | Port                 | Platforms           | Notes |
+| --------------- | -------------------- | ------------------- | ----- |
+| Sonic Unleashed | Unleashed Recompiled | Windows, Mac, Linux |       |
 
 ## DOS and PC
 
-| Port        | Game         | Platforms           | Notes |
-| ----------- | ------------ | ------------------- | ----- |
-| UZDoom      | Doom, Doom 2 | Windows, Mac, Linux |       |
-| Crispy Doom | Doom, Doom 2 | Windows, Mac, Linux |       |
-| Quakegasm   | Quake        | Windows, Mac, Linux |       |
-| Iron Wail   | Quake        | Windows, Mac, Linux |       |
+| Game         | Port        | Platforms           | Notes |
+| ------------ | ----------- | ------------------- | ----- |
+| Doom, Doom 2 | UZDoom      | Windows, Mac, Linux |       |
+| Doom, Doom 2 | Crispy Doom | Windows, Mac, Linux |       |
+| Quake        | Quakegasm   | Windows, Mac, Linux |       |
+| Quake        | Iron Wail   | Windows, Mac, Linux |       |
