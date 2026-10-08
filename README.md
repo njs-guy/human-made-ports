@@ -1,6 +1,6 @@
 # Human-made ports
 
-The
+Community-made ports of classic games made by real humans.
 
 ## Criteria
 
@@ -14,19 +14,19 @@ The
   recommend. All AI-assisted ports will be marked with a (CROSS) next to the
   project name. No vibe-coded slop is allowed here.
 
-## NES
+## NES / Famicom
 
 | Port                         | Game              | Platforms           | Notes |
 | ---------------------------- | ----------------- | ------------------- | ----- |
 | Super Mario Bros. Remastered | Super Mario Bros. | Windows, Mac, Linux |       |
 
-## SNES
+## SNES / Super Famicom
 
 | Port     | Game     | Platforms           | Notes |
 | -------- | -------- | ------------------- | ----- |
 | The port | The game | Windows, Mac, Linux |       |
 
-## N64
+## Nintendo 64
 
 | Port     | Game     | Platforms           | Notes |
 | -------- | -------- | ------------------- | ----- |
@@ -52,24 +52,27 @@ The
 
 ## Sega Genesis / Mega Drive
 
-| Port     | Game     | Platforms           | Notes |
-| -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| Port           | Game               | Platforms                    | Notes |
+| -------------- | ------------------ | ---------------------------- | ----- |
+| Sonic 3 A.I.R. | Sonic 3 & Knuckles | Windows, Mac, Linux, Android |       |
 
-## PS2
+## PlayStation 2
 
-| Port     | Game     | Platforms           | Notes |
-| -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| Port     | Game                          | Platforms           | Notes                                                                    |
+| -------- | ----------------------------- | ------------------- | ------------------------------------------------------------------------ |
+| OpenGOAL | Jak and Daxter, Jak II, Jak 3 | Windows, Mac, Linux | Jak II and 3 are still considered "beta" and may have some minor issues. |
 
 ## Xbox 360
 
-| Port     | Game     | Platforms           | Notes |
-| -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| Port                 | Game            | Platforms           | Notes |
+| -------------------- | --------------- | ------------------- | ----- |
+| Unleashed Recompiled | Sonic Unleashed | Windows, Mac, Linux |       |
 
 ## DOS and PC
 
-| Port     | Game     | Platforms           | Notes |
-| -------- | -------- | ------------------- | ----- |
-| The port | The game | Windows, Mac, Linux |       |
+| Port        | Game         | Platforms           | Notes |
+| ----------- | ------------ | ------------------- | ----- |
+| UZDoom      | Doom, Doom 2 | Windows, Mac, Linux |       |
+| Crispy Doom | Doom, Doom 2 | Windows, Mac, Linux |       |
+| Quakegasm   | Quake        | Windows, Mac, Linux |       |
+| Iron Wail   | Quake        | Windows, Mac, Linux |       |
