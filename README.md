@@ -1,18 +1,18 @@
 # Human-made ports
 
-Community-made ports of classic games made by real humans.
+Community ports of classic games made by real humans.
 
 ## Criteria
 
 - Must be playable on Windows 10/11 with little set-up. Mac, Linux, and Android
   support is also included.
-- Ports are roughly the original game. Quality of life and enhancements are
+- Ports must be roughly the original game. Quality of life and enhancements are
   allowed. Something more of a "reimagining" that heavily changes the core game
   is not included here. (AM2R, Project '06, Sonic Triple Trouble 16-bit, etc.)
-- AI assistance is allowed as long as it is largely human-made and all AI code
-  was heavily reviewed by human devs. It must remain high quality and easy to
-  recommend. All AI-assisted ports will be marked with a (CROSS) next to the
-  project name. No vibe-coded slop is allowed here.
+- AI coding assistance is allowed as long as it is largely human-made and all AI
+  code was heavily reviewed by human devs. It must remain high quality and easy
+  to recommend. **All AI-assisted ports will be marked with a ✝ next to the
+  project name.** No vibe-coded slop is allowed here.
 
 ## NES / Famicom
 
@@ -32,26 +32,26 @@ Community-made ports of classic games made by real humans.
 | Game                   | Port                                                                   | Platforms           | Notes                                                                             |
 | ---------------------- | ---------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------- |
 | Banjo-Kazooie          | [Banjo Recompiled](https://github.com/BanjoRecomp/BanjoRecomp)         | Windows, Mac, Linux |                                                                                   |
-| Banjo-Kazooie          | [Lighthouse](https://github.com/HarbourMasters/Lighthouse)             | Windows, Mac, Linux |                                                                                   |
+| Banjo-Kazooie          | [Lighthouse](https://github.com/HarbourMasters/Lighthouse)✝            | Windows, Mac, Linux |                                                                                   |
 | Donkey Kong 64         | [DK64 Rekongpiled](https://dk64recomp.com/)                            | Windows, Mac, Linux |                                                                                   |
-| Mario Kart 64          | [Spaghetti Kart](https://github.com/HarbourMasters/SpaghettiKart)      | Windows, Mac, Linux |                                                                                   |
-| Paper Mario            | [PaperBoat](https://github.com/HarbourMasters/PaperBoat)               | Windows, Mac, Linux |                                                                                   |
+| Mario Kart 64          | [Spaghetti Kart](https://github.com/HarbourMasters/SpaghettiKart)✝     | Windows, Mac, Linux |                                                                                   |
+| Paper Mario            | [PaperBoat](https://github.com/HarbourMasters/PaperBoat)✝              | Windows, Mac, Linux |                                                                                   |
 | Perfect Dark           | [Perfect Dark](https://github.com/perfect-dark-pc-port/perfect_dark)   | Windows, Mac, Linux |                                                                                   |
-| Star Fox 64            | [Starship](https://github.com/HarbourMasters/Starship)                 | Windows, Mac, Linux |                                                                                   |
+| Star Fox 64            | [Starship](https://github.com/HarbourMasters/Starship)✝                | Windows, Mac, Linux |                                                                                   |
 | Super Mario 64         | [Super Mario 64 Plus](https://github.com/MorsGames/sm64plus)           | Windows             | Requires extra dependencies to start playing. Playable on Linux through ProtonGE. |
 | Super Mario 64         | [sm64pcBuilder2](https://sm64pc.info/sm64pcbuilder2/)                  | Windows, Mac, Linux | Requires extra dependencies to start playing.                                     |
 | Super Mario 64         | [sm64coopdx](https://sm64coopdx.com/)                                  | Windows, Mac, Linux |                                                                                   |
-| Super Mario 64         | [GhostShip](https://github.com/HarbourMasters/Ghostship)               | Windows, Mac, Linux |                                                                                   |
-| Zelda: Ocarina of Time | [Ship of Harkinian](https://www.shipofharkinian.com/)                  | Windows, Mac, Linux |                                                                                   |
+| Super Mario 64         | [GhostShip](https://github.com/HarbourMasters/Ghostship)✝              | Windows, Mac, Linux |                                                                                   |
+| Zelda: Ocarina of Time | [Ship of Harkinian](https://www.shipofharkinian.com/)✝                 | Windows, Mac, Linux |                                                                                   |
 | Zelda: Majora's Mask   | [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) | Windows, Mac, Linux |                                                                                   |
-| Zelda: Majora's Mask   | [2Ship](https://github.com/2ship2harkinian/2ship2harkinian)            | Windows, Mac, Linux |                                                                                   |
+| Zelda: Majora's Mask   | [2Ship](https://github.com/2ship2harkinian/2ship2harkinian)✝           | Windows, Mac, Linux |                                                                                   |
 
 ## GameCube
 
-| Game                     | Port                                                                       | Platforms                         | Notes |
-| ------------------------ | -------------------------------------------------------------------------- | --------------------------------- | ----- |
-| Animal Crossing          | [Animal Crossing PC Port (CROSS)](https://github.com/flyngmt/ACGC-PC-Port) | Windows                           |       |
-| Zelda: Twilight Princess | [Dusklight](https://twilitrealm.dev)                                       | Windows, Mac, Linux, Android, iOS |       |
+| Game                     | Port                                                                | Platforms                         | Notes |
+| ------------------------ | ------------------------------------------------------------------- | --------------------------------- | ----- |
+| Animal Crossing          | [Animal Crossing PC Port](https://github.com/flyngmt/ACGC-PC-Port)✝ | Windows                           |       |
+| Zelda: Twilight Princess | [Dusklight](https://twilitrealm.dev)                                | Windows, Mac, Linux, Android, iOS |       |
 
 ## Game Boy and Game Boy Color
 
@@ -86,6 +86,6 @@ Community-made ports of classic games made by real humans.
 | Morrowind           | [OpenMW](https://openmw.org/)                                       | Windows, Mac, Linux |                                                                                                            |
 | Quake               | [Ironwail](https://github.com/andrei-drexler/ironwail)              | Windows, Mac, Linux |                                                                                                            |
 | Quake               | [Quakespasm](https://sourceforge.net/projects/quakespasm/)          | Windows, Mac, Linux |                                                                                                            |
-| Quake               | [vkQuake (CROSS)](https://github.com/Novum/vkQuake)                 | Windows, Mac, Linux |                                                                                                            |
+| Quake               | [vkQuake](https://github.com/Novum/vkQuake)✝                        | Windows, Mac, Linux |                                                                                                            |
 | Quake III Arena     | [ioquake3](https://ioquake3.org/)                                   | Windows, Mac, Linux |                                                                                                            |
 | Space Cadet Pinball | [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Windows, Mac, Linux | Linux version on [Flathub](https://flathub.org/en/apps/com.github.k4zmu2a.spacecadetpinball) (unverified). |
