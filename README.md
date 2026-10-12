@@ -4,8 +4,10 @@ Community ports of classic games made by real humans.
 
 ## Criteria
 
+- Must be a native port. Emulators or emulator wrappers aren't ports.
 - Must be playable on Windows 10/11 with little set-up. Mac, Linux, and Android
   support is also included.
+- Must be playable from start to finish with no major issues.
 - Ports must be roughly the original game. Quality of life and enhancements are
   allowed. Something more of a "reimagining" that heavily changes the core game
   is not included here. (AM2R, Project '06, Sonic Triple Trouble 16-bit, etc.)
