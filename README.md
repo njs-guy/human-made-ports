@@ -95,6 +95,11 @@ Community ports of classic games made by real humans.
 | Quake III Arena                  | [ioquake3](https://ioquake3.org/)                                   | Windows, Mac, Linux |                                                                                                            |
 | Space Cadet Pinball              | [Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Windows, Mac, Linux | Linux version on [Flathub](https://flathub.org/en/apps/com.github.k4zmu2a.spacecadetpinball) (unverified). |
 
+## Contributing
+
+If you want to add more entries to this page, or make a correction, please submit an issue or a pull request.
+Any help on improving this page is appreciated.
+
 ## License
 
 All text in this repo, unless otherwise stated, is licensed under the CC0 1.0 Universal license. See [LICENSE.txt](LICENSE.txt) for the full license.
