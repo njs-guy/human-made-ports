@@ -40,9 +40,9 @@ much higher quality than what the original hardware was capable of providing.
 
 ## SNES / Super Famicom
 
-| Game                      | Port                                        | Platforms      | Notes |
-| ------------------------- | ------------------------------------------- | -------------- | ----- |
-| Zelda: A Link to the Past | [zelda3](https://github.com/snesrev/zelda3) | Windows, Linux |       |
+| Game                      | Port                                        | Platforms      | Notes                                                                  |
+| ------------------------- | ------------------------------------------- | -------------- | ---------------------------------------------------------------------- |
+| Zelda: A Link to the Past | [zelda3](https://github.com/snesrev/zelda3) | Windows, Linux | 16:9 support has obvious visual bugs. Game can still be played in 4:3. |
 
 ## Nintendo 64
 
