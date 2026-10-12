@@ -2,6 +2,21 @@
 
 Community ports of classic games made by real humans.
 
+## Why?
+
+The amount of vibe-coded PC ports has gotten so out of control that it's getting
+harder and harder to know which ones are good. Vibe-coding is when someone makes
+an AI do all the coding for them. This doesn't necessarily mean that the outcome
+is low quality, but this is often the case. Inexperienced developers, or even
+people who don't know how to code at all, use these tools to make projects that
+they aren't capable of maintaining. Using AI to improve existing code is fine
+when used correctly, but vibe-coders take it too far and waste everyone's time
+with a worse experience than the original. Sometimes even bordering on malware.
+
+This page is dedicated to keeping track of all the high-quality ports that are
+made by real people. Without them, we wouldn't be able to enjoy these games at a
+much higher quality than what the original hardware was capable of providing.
+
 ## Criteria
 
 - Must be a native port. Emulators or emulator wrappers aren't ports.
