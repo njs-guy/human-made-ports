@@ -31,22 +31,22 @@ Community ports of classic games made by real humans.
 
 ## Nintendo 64
 
-| Game                   | Port                                                                   | Platforms           | Notes                                                                             |
-| ---------------------- | ---------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------- |
-| Banjo-Kazooie          | [Banjo Recompiled](https://github.com/BanjoRecomp/BanjoRecomp)         | Windows, Mac, Linux |                                                                                   |
-| Banjo-Kazooie          | [Lighthouse](https://github.com/HarbourMasters/Lighthouse)✝            | Windows, Mac, Linux |                                                                                   |
-| Donkey Kong 64         | [DK64 Rekongpiled](https://dk64recomp.com/)                            | Windows, Mac, Linux |                                                                                   |
-| Mario Kart 64          | [Spaghetti Kart](https://github.com/HarbourMasters/SpaghettiKart)✝     | Windows, Mac, Linux |                                                                                   |
-| Paper Mario            | [PaperBoat](https://github.com/HarbourMasters/PaperBoat)✝              | Windows, Mac, Linux | Has some obvious visual bugs.                                                     |
-| Perfect Dark           | [Perfect Dark](https://github.com/perfect-dark-pc-port/perfect_dark)   | Windows, Mac, Linux |                                                                                   |
-| Star Fox 64            | [Starship](https://github.com/HarbourMasters/Starship)✝                | Windows, Mac, Linux |                                                                                   |
-| Super Mario 64         | [Super Mario 64 Plus](https://github.com/MorsGames/sm64plus)           | Windows             | Requires extra dependencies to start playing. Playable on Linux through ProtonGE. |
-| Super Mario 64         | [sm64pcBuilder2](https://sm64pc.info/sm64pcbuilder2/)                  | Windows, Mac, Linux | Requires extra dependencies to start playing.                                     |
-| Super Mario 64         | [sm64coopdx](https://sm64coopdx.com/)                                  | Windows, Mac, Linux |                                                                                   |
-| Super Mario 64         | [GhostShip](https://github.com/HarbourMasters/Ghostship)✝              | Windows, Mac, Linux | Has some obvious visual bugs.                                                     |
-| Zelda: Ocarina of Time | [Ship of Harkinian](https://www.shipofharkinian.com/)✝                 | Windows, Mac, Linux |                                                                                   |
-| Zelda: Majora's Mask   | [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) | Windows, Mac, Linux |                                                                                   |
-| Zelda: Majora's Mask   | [2Ship](https://github.com/2ship2harkinian/2ship2harkinian)✝           | Windows, Mac, Linux |                                                                                   |
+| Game                   | Port                                                                   | Platforms               | Notes                                         |
+| ---------------------- | ---------------------------------------------------------------------- | ----------------------- | --------------------------------------------- |
+| Banjo-Kazooie          | [Banjo Recompiled](https://github.com/BanjoRecomp/BanjoRecomp)         | Windows, Mac, Linux     |                                               |
+| Banjo-Kazooie          | [Lighthouse](https://github.com/HarbourMasters/Lighthouse)✝            | Windows, Mac, Linux     |                                               |
+| Donkey Kong 64         | [DK64 Rekongpiled](https://dk64recomp.com/)                            | Windows, Mac, Linux     |                                               |
+| Mario Kart 64          | [Spaghetti Kart](https://github.com/HarbourMasters/SpaghettiKart)✝     | Windows, Mac, Linux     |                                               |
+| Paper Mario            | [PaperBoat](https://github.com/HarbourMasters/PaperBoat)✝              | Windows, Mac, Linux     | Has some obvious visual bugs.                 |
+| Perfect Dark           | [Perfect Dark](https://github.com/perfect-dark-pc-port/perfect_dark)   | Windows, Mac, Linux     |                                               |
+| Star Fox 64            | [Starship](https://github.com/HarbourMasters/Starship)✝                | Windows, Mac, Linux     |                                               |
+| Super Mario 64         | [Super Mario 64 Plus](https://github.com/MorsGames/sm64plus)           | Windows, Linux (Proton) | Requires extra dependencies to start playing. |
+| Super Mario 64         | [sm64pcBuilder2](https://sm64pc.info/sm64pcbuilder2/)                  | Windows, Mac, Linux     | Requires extra dependencies to start playing. |
+| Super Mario 64         | [sm64coopdx](https://sm64coopdx.com/)                                  | Windows, Mac, Linux     |                                               |
+| Super Mario 64         | [GhostShip](https://github.com/HarbourMasters/Ghostship)✝              | Windows, Mac, Linux     | Has some obvious visual bugs.                 |
+| Zelda: Ocarina of Time | [Ship of Harkinian](https://www.shipofharkinian.com/)✝                 | Windows, Mac, Linux     |                                               |
+| Zelda: Majora's Mask   | [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp) | Windows, Mac, Linux     |                                               |
+| Zelda: Majora's Mask   | [2Ship](https://github.com/2ship2harkinian/2ship2harkinian)✝           | Windows, Mac, Linux     |                                               |
 
 ## GameCube
 
@@ -57,9 +57,9 @@ Community ports of classic games made by real humans.
 
 ## Game Boy and Game Boy Color
 
-| Game                       | Port                                                          | Platforms | Notes                                                             |
-| -------------------------- | ------------------------------------------------------------- | --------- | ----------------------------------------------------------------- |
-| Zelda: Link's Awakening DX | [Zelda LADX HD](https://github.com/ryancheung/Zelda-LA-DX-HD) | Windows   | Requires .NET 8.0 runtime to play. Playable on Linux with Proton. |
+| Game                       | Port                                                          | Platforms               | Notes                              |
+| -------------------------- | ------------------------------------------------------------- | ----------------------- | ---------------------------------- |
+| Zelda: Link's Awakening DX | [Zelda LADX HD](https://github.com/ryancheung/Zelda-LA-DX-HD) | Windows, Linux (Proton) | Requires .NET 8.0 runtime to play. |
 
 ## Sega Genesis / Mega Drive
 
