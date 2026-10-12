@@ -97,7 +97,8 @@ Community ports of classic games made by real humans.
 
 ## Contributing
 
-If you want to add more entries to this page, or make a correction, please submit an issue or a pull request.
+If you want to add more entries to this page, or make a correction, please submit an
+[issue](https://github.com/njs-guy/human-made-ports/issues) or a [pull request](https://github.com/njs-guy/human-made-ports/pulls).
 Any help on improving this page is appreciated.
 
 ## License
