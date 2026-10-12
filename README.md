@@ -41,7 +41,7 @@ Community ports of classic games made by real humans.
 | Perfect Dark           | [Perfect Dark](https://github.com/perfect-dark-pc-port/perfect_dark)   | Windows, Mac, Linux     |                                               |
 | Star Fox 64            | [Starship](https://github.com/HarbourMasters/Starship)✝                | Windows, Mac, Linux     |                                               |
 | Super Mario 64         | [Super Mario 64 Plus](https://github.com/MorsGames/sm64plus)           | Windows, Linux (Proton) | Requires extra dependencies to start playing. |
-| Super Mario 64         | [sm64pcBuilder2](https://sm64pc.info/sm64pcbuilder2/)                  | Windows, Mac, Linux     | Requires extra dependencies to start playing. |
+| Super Mario 64         | [sm64pcBuilder2](https://sm64pc.info/sm64pcbuilder2/)                  | Windows                 | Requires extra dependencies to start playing. |
 | Super Mario 64         | [sm64coopdx](https://sm64coopdx.com/)                                  | Windows, Mac, Linux     |                                               |
 | Super Mario 64         | [GhostShip](https://github.com/HarbourMasters/Ghostship)✝              | Windows, Mac, Linux     | Has some obvious visual bugs.                 |
 | Zelda: Ocarina of Time | [Ship of Harkinian](https://www.shipofharkinian.com/)✝                 | Windows, Mac, Linux     |                                               |
@@ -97,10 +97,12 @@ Community ports of classic games made by real humans.
 
 ## Contributing
 
-If you want to add more entries to this page or make a correction, please submit an
-[issue](https://github.com/njs-guy/human-made-ports/issues) or a [pull request](https://github.com/njs-guy/human-made-ports/pulls).
-Any help on improving this page is appreciated.
+If you want to add more entries to this page or make a correction, please submit
+an [issue](https://github.com/njs-guy/human-made-ports/issues) or a
+[pull request](https://github.com/njs-guy/human-made-ports/pulls). Any help on
+improving this page is appreciated.
 
 ## License
 
-All text in this repo, unless otherwise stated, is licensed under the CC0 1.0 Universal license. See [LICENSE.txt](LICENSE.txt) for the full license.
+All text in this repo, unless otherwise stated, is licensed under the CC0 1.0
+Universal license. See [LICENSE.txt](LICENSE.txt) for the full license.
