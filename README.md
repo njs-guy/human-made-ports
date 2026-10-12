@@ -63,11 +63,11 @@ Community ports of classic games made by real humans.
 
 ## Sega Genesis / Mega Drive
 
-| Game               | Port                                                                 | Platforms                         | Notes                                                                                               |
-| ------------------ | -------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Sonic 1, Sonic 2   | [RSDKv4-decomp](https://github.com/RSDKModding/RSDKv4-Decompilation) | Windows, Mac, Linux, Android      | Getting the necessary game files requires a tutorial. Sonic Origins on Steam is the easiest method. |
-| Sonic CD           | [RSDKv3-decomp](https://github.com/RSDKModding/RSDKv3-Decompilation) | Windows, Mac, Linux, Android      | Getting the necessary game files requires a tutorial. Sonic Origins on Steam is the easiest method. |
-| Sonic 3 & Knuckles | [Sonic 3 A.I.R.](https://sonic3air.org/)                             | Windows, Mac, Linux, Android, iOS | The easiest way to play is with S3&K on Steam, which is delisted.                                   |
+| Game               | Port                                                                 | Platforms                                | Notes                                                                                               |
+| ------------------ | -------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Sonic 1, Sonic 2   | [RSDKv4-decomp](https://github.com/RSDKModding/RSDKv4-Decompilation) | Windows, Mac, Linux, Android             | Getting the necessary game files requires a tutorial. Sonic Origins on Steam is the easiest method. |
+| Sonic CD           | [RSDKv3-decomp](https://github.com/RSDKModding/RSDKv3-Decompilation) | Windows, Mac, Linux, Android             | Getting the necessary game files requires a tutorial. Sonic Origins on Steam is the easiest method. |
+| Sonic 3 & Knuckles | [Sonic 3 A.I.R.](https://sonic3air.org/)                             | Windows, Mac, Linux, Android, iOS (beta) | The easiest way to play is with S3&K on Steam, which is delisted.                                   |
 
 ## PlayStation 2
 
